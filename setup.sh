@@ -2,7 +2,6 @@
 #!/bin/bash 
 clear
 echo
-pkg install pv -y >/dev/null 2>&1
 echo -e "\033[32m\033[1m]────────────────────────────────────────────["
 echo -e "\033[33m\033[1m   Installing Packages and All Dependencies"
 apt update                    
