@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # নিকনেম ইনপুট নেওয়া
-cp banner.sh
+cp banner.sh $HOME
 bash banner.sh
 bash info.sh
 read -p $'\033[1m\033[32m   Your \033[0mNick \033[38;5;209mName \033[31m  : \033[33m\033[1m ' names
