@@ -13,7 +13,7 @@ Easily customize your Termux home screen using this simple Bash script. Follow t
 ## Installation & Setup
 Follow the detailed guide in our blog:
 
-🔗 [Termux Home Customization Setup Guide](https://www.techblogbd.xyz/termux-home-customization-tool)
+🔗 [Termux Home Customization Setup Guide](https://www.techblogbd.xyz/2025/02/termux-home-customization-tool.html)
 
 ## Usage
 1. Install Git:
