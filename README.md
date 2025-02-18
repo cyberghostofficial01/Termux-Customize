@@ -1,5 +1,7 @@
 # Termux Home Customization Tool
 
+![Image](https://github.com/user-attachments/assets/308388e7-b4e1-4217-a9c0-2b0db6e1116d)
+
 Easily customize your Termux home screen using this simple Bash script. Follow the setup guide to enhance your Termux experience.
 
 ## Features
