@@ -1,18 +1,37 @@
-# Termux-Customize
-Installation
-রিপোজিটরি ক্লোন করুন:
+# Termux Home Customization Tool
 
-bash
-Copy
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-স্ক্রিপ্ট রান করুন:
+Easily customize your Termux home screen using this simple Bash script. Follow the setup guide to enhance your Termux experience.
 
-bash
-Copy
-bash setup.sh
-নির্দেশনা অনুসরণ করুন:
+## Features
+- Automatically installs required packages
+- Allows custom nickname input
+- Enhances Termux appearance
+- Simple and easy-to-use
 
-স্ক্রিপ্টটি আপনাকে একটি নিকনেম ইনপুট করতে বলবে।
+## Installation & Setup
+Follow the detailed guide in our blog:
 
-স্ক্রিপ্ট রান হওয়ার পর টার্মিনাল স্বয়ংক্রিয়ভাবে বন্ধ হয়ে যাবে।
+🔗 [Termux Home Customization Setup Guide](https://www.techblogbd.xyz/termux-home-customization-tool)
+
+## Usage
+1. Install Git:
+   ```bash
+   pkg install git
+   ```
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/cyberghostofficial01/Termux-Customize/
+   ```
+3. Navigate to the folder:
+   ```bash
+   cd Termux-Customize
+   ```
+4. Run the setup script:
+   ```bash
+   bash setup.sh
+   ```
+
+After completion, restart Termux to see the changes.
+
+For more details, visit our blog post linked above. Happy customizing!
+
